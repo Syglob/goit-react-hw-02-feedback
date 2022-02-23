@@ -1,0 +1,36 @@
+.statsTitle {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(81, 51, 165);
+}
+.text {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(98, 68, 179);
+}
+.statsWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.statsWrapper > p {
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.good {
+  color: rgb(0, 189, 0);
+}
+.neutral {
+  color: rgb(194, 165, 2);
+}
+.bad {
+  color: rgb(255, 0, 0);
+}
+.total {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(98, 68, 179);
+}
